@@ -1,0 +1,7 @@
+# Fichiers temporaires Office
+~$*
+*.docx
+
+# Systeme
+.DS_Store
+Thumbs.db
